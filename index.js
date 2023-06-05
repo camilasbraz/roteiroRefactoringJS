@@ -1,5 +1,5 @@
 const { readFileSync } = require('fs');
-
+//
 function gerarFaturaStr (fatura, pecas) {
     let totalFatura = 0;
     let creditos = 0;
